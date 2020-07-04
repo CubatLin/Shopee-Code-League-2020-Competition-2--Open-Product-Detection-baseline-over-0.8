@@ -1,6 +1,6 @@
-Shopee Code League 2020- [Open]Product Detection- accuracy over 0.8
+Shopee Code League 2020- [Open]Product Detection- Baseline over 0.8
 ======================================
-* **Competition Link:** [Shopee Code League 2020- [Open]Product Detection- accuracy over 0.8 ](https://www.kaggle.com/c/shopee-product-detection-open)
+* **Competition Link:** [[Open] Shopee Code League - Product Detection- Detect Real Product On E-commercial Platform ](https://www.kaggle.com/c/shopee-product-detection-open)
 
 * **Team & Ranking**
 ```
