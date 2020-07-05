@@ -6,9 +6,11 @@ Shopee Code League 2020- [Open]Product Detection- Baseline over 0.8
 ```
 Team:台灣梯度下降第一品牌
 Members:Alexi,LuJian,Ming-Xiang,Ethan
-Score : 0.81340
-Ranking: 76 of 643 teams
+Score : 0.81287
+Ranking: 67 of 646 teams
 ```
+
+![image](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/SCL_2_Ranking.JPG)
 
 * **VGG16 BaseLine Model:** [VGG16](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/ShopeeCodeLeague_2_VGG16.ipynb)
 
