@@ -10,7 +10,7 @@ Private Leaderboard Score : 0.81826
 Ranking: 67 of 646 teams
 ```
 
-![image](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/SCL_2_Ranking.JPG)
+![image](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/Shopee%20Code%20League-%20Ranking.JPG)
 
 * **VGG16 BaseLine Model:** [VGG16](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/ShopeeCodeLeague_2_VGG16.ipynb)
 
