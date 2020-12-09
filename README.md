@@ -30,5 +30,5 @@ VGG16, EfficientNet, Xception, MobileNet, XGBoost
 
 * **And here's a short solution of competition 1- order brushing!(Score over 0.95):** [Order Brushing! ](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/Pandas%20War-%20Order%20Brushing.ipynb)
 
-* **2020/12/9 update: 5th in I'm the Best Coder!2020(Open Category)**
+* **2020/12/9 update: 5th in [I'm the Best Coder!2020(Open Category)](https://ts01174755.medium.com/shopee-challenge-2020-user-spending-prediction-%E7%AC%AC%E4%BA%94%E5%90%8D%E5%81%9A%E6%B3%95%E5%88%86%E4%BA%AB-f597288c2b6c)**
 ![image](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/Open%20Im%20the%20best%20coderrrrrr%202020.JPG)
