@@ -29,3 +29,6 @@ In this competition, a multiple image classification model needs to be built. Th
 VGG16, EfficientNet, Xception, MobileNet, XGBoost 
 
 * **And here's a short solution of competition 1- order brushing!(Score over 0.95):** [Order Brushing! ](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/Pandas%20War-%20Order%20Brushing.ipynb)
+
+* **2020/12/9 update: 5th in I'm the Best Coder!2020(Open Category)**
+![image](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/Open%20Im%20the%20best%20coderrrrrr%202020.JPG)
