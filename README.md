@@ -32,3 +32,6 @@ VGG16, EfficientNet, Xception, MobileNet, XGBoost
 
 * **2020/12/9 update: 5th in [I'm the Best Coder!2020(Open Category)](https://ts01174755.medium.com/shopee-challenge-2020-user-spending-prediction-%E7%AC%AC%E4%BA%94%E5%90%8D%E5%81%9A%E6%B3%95%E5%88%86%E4%BA%AB-f597288c2b6c)**
 ![image](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/BestCoderr.JPG)
+
+* **2021/3/26 update: Top 30 team in [Shopee Code League 2021 series (Open Category)](https://careers.shopee.com.my/event-detail/432/)**
+![image](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/ShopeeCodeLeague2021_Top30.png)
