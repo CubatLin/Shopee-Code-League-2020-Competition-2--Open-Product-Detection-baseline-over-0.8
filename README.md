@@ -15,9 +15,9 @@ Ranking: 67 of 646 teams
 
 ![image](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/Shopee%20Code%20League-%20Ranking.JPG)
 
-* **VGG16 BaseLine Model:** [VGG16](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/ShopeeCodeLeague_2_VGG16.ipynb)
+* **VGG16 BaseLine Model:** [VGG16](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/Product%20Detection/ShopeeCodeLeague_2_VGG16.ipynb)
 
-* **XGBoost:**  [XGBoost ](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/CNNtoXGB_128dims.ipynb)
+* **XGBoost:**  [XGBoost ](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/Product%20Detection/CNNtoXGB_128dims.ipynb)
 
 * **Background:** 
 At Shopee, we always strive to ensure the correct listing and categorization of products. For example due to the recent pandemic situation, face masks become extremely popular for both buyers and sellers, everyday we need to categorize and update a huge number of masks items. A robust product detection system will significantly improve the listing and categorization efficiency. But in the industrial field the data is always much more complicated and there exists mis-labelled images, complex background images and low resolution images, etc. The noisy and imbalanced data and multiple categories make this problem still challenging in the modern computer vision field.
